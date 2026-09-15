@@ -1,19 +1,1 @@
-NETWORK-Is a group of interconnected electronic devices talking  to each other and can share data or resources with oneanother
-Device-also known as a node is a gadget on the network can be a phone,printer or a laptop the slight diff in definations is that a network device is a device connected on a network while a node is any device that can send or receive data in a network
-ip address - logical address assigned to a network interface (a device home address/location and which can change depending on the network or the configuration)
-mac-address - a device fingerprint/identity and cannot change used for communication on the local network but sometimes can be spoofed or changed in software
-ip packet- like a small envelop that carries part of your data and is the basic unit of data in the network layer and has an ip header which has information such the source and the ip address(destination) and with the data 
-router- like a post office that decides where ur packets go to next based on their ip adress(destination) and also connects electronic devces on different networks
-switch-connects electronic devices on a local network
 
-IMPORTANT TO NOTE IN NETWORKING
- Addressing-(a)IP- each and every device needs an a unique way to be found
-            (b)mac- permanent fingerprint of the device/the unique identity of the device 
-Packetization - Data always travels in small peices not one giant thing
-forwarding - The router makes decisions after every hop based only on the destination of the ip address
-ARP-stands for address resolution protocol and is a protocol that is used in a network to discover the devices mac address that is associated  with a local ip address
-we need to know a devices mac address  so that the data (ethernet frames) can be transfered/delivered from one specific device to another on a local area network 
-In cybersecurity i have learnt that hackers usually abuse this protocal in attacks such as ARP spoofing/poisoning which iam going to come across it as i learn networking
-
-DIFFERENCE BETWEEN PACKETIZATION,PACKETS AND ETHERNET FRAMES
-OVERVIEW
