@@ -13,3 +13,19 @@ My goal is to build a strong networking foundation from scratch that i can use i
 -lean packet analysis with Wireshark
 -build practical networking labs
 -use the networking knowledge as a foundation for cybersecurity
+## Learning Progress
+-[x] What is a computer network?
+-[x] Network devices and nodes
+-[x] Ip addresses
+-[x] Mac addresses
+-[x] Packets
+-[x] Ethernet frames
+-[x] ARP
+-[X] Routers and switches
+-[] Subnetting
+-[] CIDR notation
+-[] Routing
+-[] VLANs
+-[] DHCP
+-[] DNS
+-[] Wireshark and packet analysis
